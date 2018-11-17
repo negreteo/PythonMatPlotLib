@@ -17,5 +17,3 @@ colors = ["c","b","g","r","y"]
 plt.pie(values, labels=labels, autopct="%.1f%%", explode=explode, colors=colors)
 
 plt.show()
-
-
